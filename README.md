@@ -1,4 +1,4 @@
-# [Sponsorname] Mitigation Review
+# Karak Restaking Mitigation Review
 
 Competition findings are submitted to this repo.
 
